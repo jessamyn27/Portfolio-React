@@ -1,6 +1,6 @@
 # Portfolio-React
 
-#### Created a Personal Portfolio Websiteusing react, express, css and responsve techniques like flexbox, @media and css selectors
+#### Created a Personal Portfolio Website using react, express, css and responsve techniques like flexbox, @media and css selectors
 
 ## Table of Contents
 
@@ -25,8 +25,8 @@
 
 # ![](src/components/images/screenshot-1.png)
 # ![](src/components/images/screenshot-2.png)
-# ![](src/components/images/screenshot-3.png)
 # ![](src/components/images/screenshot-5.png)
+# ![](src/components/images/screenshot-3.png)
 # ![](src/components/images/screenshot-4.png)
 
 

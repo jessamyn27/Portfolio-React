@@ -17,38 +17,38 @@ export default function About() {
                 <div className={"images hero-image"}>
                     <h3>Stargazers</h3>
                     <h3>Constellations and Nasa API Data by City</h3>
-                    <a href="https://jessamyn27.github.io/Stargazers-App-NASA-API/">website </a> <a href="https://jessamyn27.github.io/Stargazers-App-NASA-API/">| github repo</a>
+                    <a href="https://jessamyn27.github.io/Stargazers-App-NASA-API/"target="_blank">website </a> <a href="https://jessamyn27.github.io/Stargazers-App-NASA-API/" target="_blank">| github repo</a>
                     <a href="https://jessamyn27.github.io/Stargazers-App-NASA-API/" target="_blank" rel="noopener noreferrer"><img src={Stargazers} alt="stargazers website"/>
                     </a>
                    
                 </div>
                 <div className={"images sidekick-image"}>
                     <h3>Responsive Mortgage Calculator</h3>
-                    <a href="http://my-mortgage-calculator.surge.sh/">website </a> <a href="https://github.com/jessamyn27/mortgage-calculator">| github repo</a>
+                    <a href="http://my-mortgage-calculator.surge.sh/"target="_blank">website </a> <a href="https://github.com/jessamyn27/mortgage-calculator" target="_blank">| github repo</a>
                     <a href="http://my-mortgage-calculator.surge.sh/" target="_blank" rel="noopener noreferrer"><img src={mortcalc} alt="mortgage calculator app"/>
                     </a>
                 </div>
                 <div className={"images sidekick-image"}>
                     <h3>Search For Aliens</h3>
-                    <a href="https://jessamyn27.github.io/Search_For_Aliens/">website </a> <a href="https://github.com/jessamyn27/Search_For_Aliens">| github repo</a>
+                    <a href="https://jessamyn27.github.io/Search_For_Aliens/"target="_blank">website </a> <a href="https://github.com/jessamyn27/Search_For_Aliens" target="_blank">| github repo</a>
                     <a href="https://jessamyn27.github.io/Search_For_Aliens/" target="_blank" rel="noopener noreferrer"><img src={SearchForAliens} alt="search for aliens app website"/>
                     </a>
                 </div>
                 <div className={"images baby-image"}>
                     <h3>Weather By City</h3>
-                    <a href="https://jessamyn27.github.io/Weather-3rd-Party-API">website </a> <a href="https://github.com/jessamyn27/Weather-3rd-Party-API">| github repo</a>
+                    <a href="https://jessamyn27.github.io/Weather-3rd-Party-API"target="_blank">website </a> <a href="https://github.com/jessamyn27/Weather-3rd-Party-API" target="_blank">| github repo</a>
                     <a href="https://jessamyn27.github.io/Weather-3rd-Party-API" target="_blank" rel="noopener noreferrer"><img src={weatherapp} alt="weather by city app website"/>
                     </a>
                 </div>
                 <div className={"images baby-image"}>
                     <h3>Coding Is the Future</h3>
-                    <a href="https://flashcard-fun-app.firebaseapp.com/">website </a> <a href="https://github.com/jessamyn27/Coding_Is_The_Future_App">| github repo</a>
+                    <a href="https://flashcard-fun-app.firebaseapp.com/"target="_blank">website </a> <a href="https://github.com/jessamyn27/Coding_Is_The_Future_App" target="_blank">| github repo</a>
                     <a href="https://flashcard-fun-app.firebaseapp.com/" target="_blank" rel="noopener noreferrer"><img src={CodingIsTheFuture} alt="coding is the future app website"/>
                     </a>
                 </div>
                 <div className={"images baby-image"}>
                     <h3>Quiz Me Game</h3>
-                    <a href="https://jessamyn27.github.io/Coding-Quiz/">website </a> <a href="https://github.com/jessamyn27/Coding-Quiz">| github repo</a>
+                    <a href="https://jessamyn27.github.io/Coding-Quiz/"target="_blank">website </a> <a href="https://github.com/jessamyn27/Coding-Quiz" target="_blank">| github repo</a>
                     <a href="https://jessamyn27.github.io/Coding-Quiz/" target="_blank" rel="noopener noreferrer"><img src={quizme} alt="quiz me game website"/>
                     </a>
                 </div>

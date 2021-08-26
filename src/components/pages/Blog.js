@@ -13,7 +13,7 @@ export default function Blog() {
                     <a href="mailto:jessamyn.mctwigan@gmail.com" target="_blank" rel="noopener noreferrer"><i className={"material-icons big-icon"}>coffee</i></a>
                 </h3>
                 <br/>
-                <a href="https://www.linkedin.com/in/jessamynmctwigan/">linkedin </a> <a href="https://drive.google.com/file/d/1gDbVfvuLRSM0Dtd1haDsm7QsZPV4GvLv/view?usp=sharing">|  resume  </a><a href="hhttps://github.com/jessamyn27/">| github</a>
+                <a href="https://www.linkedin.com/in/jessamynmctwigan/" target="_blank">linkedin </a> <a href="https://drive.google.com/file/d/1gDbVfvuLRSM0Dtd1haDsm7QsZPV4GvLv/view?usp=sharing" target="_blank">|  resume  </a><a href="hhttps://github.com/jessamyn27/" target="_blank">| github</a>
 
             </form>
         </section>

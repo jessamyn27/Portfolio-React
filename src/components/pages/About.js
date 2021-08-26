@@ -17,8 +17,8 @@ export default function About() {
                 <div className={"images hero-image"}>
                     <h3>Stargazers</h3>
                     <h3>Constellations and Nasa API Data by City</h3>
-                    <a href="https://jessamyn27.github.io/Project-One-Utilizing-Third-Party-APIs/">website </a> <a href="https://github.com/jessamyn27/Project-One-Utilizing-Third-Party-APIs">| github repo</a>
-                    <a href="https://jessamyn27.github.io/Project-One-Utilizing-Third-Party-APIs/" target="_blank" rel="noopener noreferrer"><img src={Stargazers} alt="stargazers website"/>
+                    <a href="https://jessamyn27.github.io/Stargazers-App-NASA-API/">website </a> <a href="https://jessamyn27.github.io/Stargazers-App-NASA-API/">| github repo</a>
+                    <a href="https://jessamyn27.github.io/Stargazers-App-NASA-API/" target="_blank" rel="noopener noreferrer"><img src={Stargazers} alt="stargazers website"/>
                     </a>
                    
                 </div>

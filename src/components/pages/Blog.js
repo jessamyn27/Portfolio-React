@@ -2,23 +2,21 @@ import React from 'react';
 
 export default function Blog() {
   return (
-    <div>
-      <h1>Blog Page</h1>
-      <p>
-        Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
-        Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
-        dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci, finibus
-        sodales volutpat et, hendrerit ut dolor. Suspendisse porta dictum nunc,
-        sed pretium risus rutrum eget. Nam consequat, ligula in faucibus
-        vestibulum, nisi justo laoreet risus, luctus luctus mi lacus sit amet
-        libero. Class aptent taciti sociosqu ad litora torquent per conubia
-        nostra, per inceptos himenaeos. Mauris pretium condimentum tellus eget
-        lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-        Donec placerat accumsan mi, ut congue neque placerat eu. Donec nec ipsum
-        in velit pellentesque vehicula sit amet at augue. Maecenas aliquam
-        bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
-        est ligula suscipit velit, sed bibendum turpis dui in sapien.
-      </p>
-    </div>
+    <main className={"main-container"}>
+       <section>
+            <h2 id="contact"><span className={"first-letter"}>c</span>ontact</h2>
+            <form>
+               
+                <h3>wanna get coffee?
+                    <br/>click the cup and let's meet up!
+                    <br/>
+                    <a href="mailto:jessamyn.mctwigan@gmail.com" target="_blank" rel="noopener noreferrer"><i className={"material-icons big-icon"}>coffee</i></a>
+                </h3>
+                <br/>
+                <a href="https://www.linkedin.com/in/jessamynmctwigan/">linkedin </a> <a href="https://drive.google.com/file/d/1gDbVfvuLRSM0Dtd1haDsm7QsZPV4GvLv/view?usp=sharing">|  resume  </a><a href="hhttps://github.com/jessamyn27/">| github</a>
+
+            </form>
+        </section>
+    </main>
   );
 }
